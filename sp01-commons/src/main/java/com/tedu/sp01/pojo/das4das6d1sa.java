@@ -1,0 +1,8 @@
+package com.tedu.sp01.pojo;
+
+public class das4das6d1sa {
+	public static void main(String[] args) {
+		System.out.println("das4das6d1sa.main()");
+	}
+
+}
